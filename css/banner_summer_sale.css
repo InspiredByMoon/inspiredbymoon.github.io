@@ -1,14 +1,36 @@
 .banner_summer_sale {
   width: 570px;
   height: 580px;
-  background: #3c3c3c;
   margin-top: 20px;
   display: inline-block;
   position: relative;
+  background: url(../img/summer_sale.jpg)
+}
+
+.layer {
+    background-color: #3c3c3c;
+    opacity: 0.85;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .banner_summer_sale_inner {
   margin: 195px auto;
   width: 380px;
   text-align: center;
+}
+
+.banner_summer_sale_button {
+  background-color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.1px;
 }
