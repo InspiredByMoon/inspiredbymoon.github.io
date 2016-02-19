@@ -1,0 +1,14 @@
+.banner_summer_sale {
+  width: 570px;
+  height: 580px;
+  background: #3c3c3c;
+  margin-top: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+.banner_summer_sale_inner {
+  margin: 195px auto;
+  width: 380px;
+  text-align: center;
+}
