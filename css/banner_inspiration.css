@@ -1,0 +1,27 @@
+.banner_inspiration {
+  width: 370px;
+  height: 360px;
+  background: url(../img/banner.jpg) no-repeat #f3f2f8;
+  background-position:center 190px;
+  display: inline-block;
+  margin-right: 20px;
+  vertical-align: top;
+}
+
+.banner_inspiration_text {
+  text-transform: uppercase;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.banner_inspiration_button {
+  background-color: #282828;
+  color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+}

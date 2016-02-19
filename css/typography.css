@@ -1,0 +1,47 @@
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+h2.white {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-family: 'PT Sans', sans-serif;
+  text-transform: uppercase;
+  color: white;
+}
+
+p {
+  font-size: 12px;
+  margin-bottom: 20px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+}
+
+p.white {
+  font-size: 12px;
+  margin-bottom: 20px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  color: white;
+}
+
+a.white {
+  font-size: 12px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 1.2px;
+}
+
+a.white:hover {
+  color: #2d8de0;
+  cursor: pointer;
+  text-decoration: underline;
+}

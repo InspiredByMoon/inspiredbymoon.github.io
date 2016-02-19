@@ -1,0 +1,25 @@
+.banner_limited_offer {
+  width: 570px;
+  height: 360px;
+  background: url(../img/img_limited_offer.jpg);
+  margin-left: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+.banner_limited_offer_inner {
+  width: 210px;
+  height: 210px;
+  background: #3c3c3c;
+  position: absolute;
+  left: 290px;
+  top: 76px;
+  opacity: 0.9;
+
+}
+
+.banner_limited_offer_inner_text {
+  text-transform: uppercase;
+  margin-left: 40px;
+  margin-top: 50px;
+}
